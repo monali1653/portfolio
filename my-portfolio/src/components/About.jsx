@@ -11,7 +11,7 @@ const About = () => {
       <div>
         <h2 className="text-2xl md:text-4xl font-bold">About</h2>
         <div className="md:flex flex-wrap flex-col md:flex-row items-center">
-          <img className="md:h-80" src="/src/images/about-img-removebg-preview.png" alt="About img" />
+          <img className="md:h-80" src="/public/images/about-img-removebg-preview.png" alt="About img" />
 
           <ul>
             <div className="flex gap-3 py-4">
