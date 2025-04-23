@@ -16,7 +16,7 @@ const Home = () => {
         
       </div>
       <div>
-        <img className="" src="/public/images/home-img-removebg-preview.png" alt="" />
+        <img className="" src="/images/home-img-removebg-preview.png" alt="" />
       </div>
     </div>
   );

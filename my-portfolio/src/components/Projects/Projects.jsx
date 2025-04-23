@@ -9,17 +9,17 @@ const Projects = () => {
         <ProjectCard
           title="Book Website"
           main="This is a book website where users can buy and sell books created in React.js and still working on its backend..."
-          image="/public/images/book.png"
+          image="/images/book.png"
         />
         <ProjectCard
           title="Mona Florals"
           main="This is a landing page for flowers created using HTML,CSS"
-          image='/public/images/flowers.png'
+          image='/images/flowers.png'
         />
         <ProjectCard
           title="Snake Game"
           main="This is a snake game website where snake catches the food, created using HTML, CSS and JS"
-          image='/public/images/snake.png'
+          image='/images/snake.png'
         />
       </div>
     </div>
